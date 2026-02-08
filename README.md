@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mandar — a Full-Stack Web Developer with 1 year of hands-on experience.<br><br>🔭 I’m currently working on building full-stack web applications using React, Node.js, and Express.<br>👯 I’m looking to collaborate on web development projects (frontend or full-stack).<br>🤝 I’m open to help with React, REST APIs, and JavaScript-based projects.<br>🌱 I’m currently learning Next.js, performance optimization, and scalable backend patterns.<br>💬 Ask me about MERN stack, REST APIs, JWT authentication, and responsive UI development.<br>⚡ Fun fact: I enjoy turning real-world ideas into working web products.<br><br>
+👋 Hi, I’m Mandar — a Full-Stack Web Developer with 1 year of hands-on experience.<br><br>🔭 I’m currently working on building full-stack web applications using React, Next.js, Node.js, and Express.<br>👯 I’m looking to collaborate on web development projects (frontend or full-stack).<br>🤝 I’m open to help with React, REST APIs, and JavaScript-based projects.<br>🌱 I’m currently learning Next.js, performance optimization, and scalable backend patterns.<br>💬 Ask me about MERN stack, REST APIs, JWT authentication, and responsive UI development.<br>⚡ Fun fact: I enjoy turning real-world ideas into working web products.<br><br>
 
 
 ## 🌐 Socials:
