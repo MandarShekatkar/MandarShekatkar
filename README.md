@@ -37,11 +37,11 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandarShekatkar&theme=tokyonight&show_icons=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandarShekatkar&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MandarShekatkar&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=MandarShekatkar&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandarShekatkar&theme=tokyonight&layout=compact&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandarShekatkar&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
