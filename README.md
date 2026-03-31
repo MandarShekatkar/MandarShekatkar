@@ -37,12 +37,12 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandarShekatkar&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=MandarShekatkar&show_icons=true&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MandarShekatkar&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=MandarShekatkar&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandarShekatkar&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandarShekatkar&layout=compact&theme=tokyonight" />
+     
 ---
 
 ## 🚀 Featured Projects:
