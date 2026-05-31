@@ -1,11 +1,16 @@
 # 💫 About Me
-
 👋 Hi, I'm Mandar — a Full-Stack Web Developer passionate about building modern web applications.
+
 🔭 Currently building full-stack applications using React, Next.js, Node.js, Express.js, and MongoDB.
+
 🌱 Currently learning Next.js, system design fundamentals, performance optimization, and scalable backend architectures.
+
 👯 Looking to collaborate on Frontend, MERN Stack, and Full-Stack Web Development projects.
+
 🤝 Open to contributing to React, JavaScript, and REST API-based projects.
+
 💬 Ask me about React, JavaScript, Node.js, Express.js, MongoDB, JWT Authentication, Redux, and REST APIs.
+
 ⚡ Fun fact: I enjoy turning real-world ideas into working web products.
 
 ---
