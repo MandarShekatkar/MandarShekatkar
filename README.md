@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm Mandar Shekatkar — a Software Developer currently working as a Full-Stack Developer at RedPhantom Tech Novelty.
+👋 Hi, I'm Mandar Shekatkar — a Full-Stack Developer currently working at RedPhantom Tech Novelty.
 
 💼 Building scalable web applications using React.js, Node.js, Express.js, MongoDB, and JavaScript.
 
