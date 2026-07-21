@@ -1,15 +1,16 @@
 # 💫 About Me
-👋 Hi, I'm Mandar — a Full-Stack Web Developer passionate about building modern web applications.
- 
-🔭 Currently building full-stack applications using React, Next.js, Node.js, Express.js, and MongoDB.
 
-🌱 Currently learning Next.js, system design fundamentals, performance optimization, and scalable backend architectures.
+👋 Hi, I'm Mandar Shekatkar — a Software Developer currently working as a Full-Stack Developer at RedPhantom Tech Novelty.
 
-👯 Looking to collaborate on Frontend, MERN Stack, and Full-Stack Web Development projects.
+💼 Building scalable web applications using React.js, Node.js, Express.js, MongoDB, and JavaScript.
 
-🤝 Open to contributing to React, JavaScript, and REST API-based projects.
+🚀 Passionate about writing clean, maintainable code and transforming ideas into real-world software solutions.
 
-💬 Ask me about React, JavaScript, Node.js, Express.js, MongoDB, JWT Authentication, Redux, and REST APIs.
+🌱 Currently learning Microsoft Azure, Java, system design fundamentals, and scalable backend architectures.
+
+🤝 Open to collaborating on React.js, Full-Stack, and Open Source projects.
+
+💬 Ask me about React.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication, Redux, and Git.
 
 ⚡ Fun fact: I enjoy turning real-world ideas into working web products.
 
